@@ -236,8 +236,6 @@ protected:
     TextureResType _frontCrossDisabledTexType;
     
     float _zoomScale;
-    float _backgroundTextureScaleX;
-    float _backgroundTextureScaleY;
     
     bool _backGroundBoxRendererAdaptDirty;
     bool _backGroundSelectedBoxRendererAdaptDirty;
